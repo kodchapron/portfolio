@@ -50,7 +50,7 @@ const PROJECTS = [
     category: "uxui",
     tags: ["ETL Process", "SQL / Python", "Data Viz"],
     desc: "Data Pipeline และ Dashboard สำหรับวิเคราะห์ข้อมูลการท่องเที่ยว ให้ Insights สำหรับการตัดสินใจ",
-    link: "https://tourism-data-analysis.vercel.app/dashboard",
+    link: null,
     cta: "View Detail →",
   },
   {
@@ -114,8 +114,8 @@ const PROJECT_DETAILS = {
     solution: "ออกแบบ UI ให้ดูข้อมูลได้ทันที กรองตามวัน/เดือน/ปี และ drill-down รายกล้องได้ — เขียนโค้ด frontend ด้วยความช่วยเหลือของ AI",
     stack: ["Figma", "HTML / CSS / JS", "AI-assisted Coding", "Vercel"],
     images: [tourismImg1, tourismImg2],
-    link: "https://tourism-data-analysis.vercel.app/dashboard",
-    linkLabel: "View Live Dashboard",
+    link: null,
+    linkLabel: null,
   },
   lastly: {
     overview: "Empathy-driven funeral management app — ออกแบบเพื่อลด cognitive load ในช่วงเวลาที่ยากลำบาก",
